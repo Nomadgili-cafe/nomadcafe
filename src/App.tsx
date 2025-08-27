@@ -23,7 +23,7 @@ function App() {
       '/images/gallery/image2.jpg',
       '/images/gallery/image3.jpg',
       '/images/gallery/image4.jpg',
-      '/images/gallery/image5.png'
+      '/images/gallery/image5.png',
       '/images/galleryimage6.jpg',
     ];
     
