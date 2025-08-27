@@ -140,7 +140,7 @@ function App() {
                   <div className="space-y-2 text-driftwood-700 text-lg font-clarendon">
                     <div className="flex justify-between">
                       <span>Monday - Sunday</span>
-                      <span className="font-semibold">7:00 AM - 10:00 PM</span>
+                      <span className="font-semibold">7:00 AM - 12:00 PM</span>
                     </div>
                     <div className="flex justify-between">
                       <span>Kitchen closes</span>
