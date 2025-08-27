@@ -571,7 +571,7 @@ function App() {
             <div className="space-y-2">
               <div className="flex justify-between items-center">
                 <span className="text-driftwood-700 font-clarendon">Coca Cola</span>
-                <span className="font-clarendon font-semibold text-driftwood-600">Rp. 25.000</span>
+                <span className="font-clarendon font-semibold text-driftwood-600">Rp. 40.000</span>
               </div>
               <div className="flex justify-between items-center">
                 <span className="text-driftwood-700 font-clarendon">Coke Zero</span>
