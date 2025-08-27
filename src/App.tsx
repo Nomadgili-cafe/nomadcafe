@@ -579,7 +579,7 @@ function App() {
               </div>
               <div className="flex justify-between items-center">
                 <span className="text-driftwood-700 font-clarendon">Mineral Water</span>
-                <span className="font-clarendon font-semibold text-driftwood-600">Rp. 235.000</span>
+                <span className="font-clarendon font-semibold text-driftwood-600">Rp. 15.000</span>
               </div>
               <div className="flex justify-between items-center">
                 <span className="text-driftwood-700 font-clarendon">Fresh Coconut</span>
