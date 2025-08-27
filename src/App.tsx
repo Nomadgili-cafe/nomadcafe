@@ -24,7 +24,6 @@ function App() {
       '/images/gallery/image3.jpg',
       '/images/gallery/image4.jpg',
       '/images/gallery/image5.png'
-      '/images/gallery/Uniekenaam.jpg'
     ];
     
     const [currentImageIndex, setCurrentImageIndex] = useState(0);
